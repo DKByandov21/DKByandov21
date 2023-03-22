@@ -7,4 +7,6 @@
 
 - ❤️ My projects are: [The-Astronauts](https://github.com/nzstoyanov21/The-Astronauts) - also part of [Atmos-adventure](https://github.com/codingburgas/atmos-adventure)
 <br>
+
+- 💻 I'm currently working on project - MathSolvers' game!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DKByandov21&show_icons=true&locale=en" alt="DKByandov21" /></p>
