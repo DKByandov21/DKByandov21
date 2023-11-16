@@ -5,9 +5,9 @@
 
 - 📫 You can reach me at DKByandov21@codingburgas.bg
 
-- ❤️ My projects are: [The-Astronauts](https://github.com/nzstoyanov21/The-Astronauts) - [Atmos-adventure](https://github.com/codingburgas/atmos-adventure) - [MathSolvers](https://github.com/codingburgas/MathSolvers) - [Atom](https://github.com//SGSkuliev21/Atom)
+- ❤️ My projects are: [IBA](https://github.com/dkbyandov21/IBA) - [The-Astronauts](https://github.com/nzstoyanov21/The-Astronauts) - [Atmos-adventure](https://github.com/codingburgas/atmos-adventure) - [MathSolvers](https://github.com/codingburgas/MathSolvers) - [Atom](https://github.com//SGSkuliev21/Atom)
 
-- 💻 I'm currently working on project - Atom's game!
+- 💻 I'm currently working on project - IBA's website!
 <br>
  <a href="https://github.com/dkbyandov21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dkbyandov21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> 
 <br>
