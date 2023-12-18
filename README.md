@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimitar Byandov</h1>
 
 
-- 🗣 Languages: **C++**, **JavaScript**, **BASICS OF Python az sym geei**
+- 🗣 Languages: **C++**, **JavaScript**, **BASICS OF Python**
 
 - 📫 You can reach me at DKByandov21@codingburgas.bg
 
